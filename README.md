@@ -87,5 +87,7 @@ This analysis confirms that the primary consumer base for this Black Friday sale
 ---
 
 ### 👤 Author
-* **Connect with me on LinkedIn:** https://www.linkedin.com/in/kvijayasai
-* **Check out my GitHub:** https://github.com/Vijay-112007
+* **Connect with me on LinkedIn:** 
+https://www.linkedin.com/in/kvijayasai
+* **Check out my GitHub:** 
+https://github.com/Vijay-112007
